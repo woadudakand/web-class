@@ -1,0 +1,19 @@
+/* body {
+    background-image: url('./image/mountain.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} */
+header {
+    /* background-color: black; */
+   /* color: white; */
+     /* height: 300px; */
+    
+    /* background-size: cover;
+    background-position: 90% 100%; */
+}
+
+header {
+    /* border-color: black; */
+    /* border-width: 1px; */
+    border-style: solid;
+}
